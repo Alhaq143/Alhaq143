@@ -1,25 +1,25 @@
 {
-  "name": "VCsMusicBot",
+  "name": "ISLAMIC NASHEED",
   "logo": "https://telegra.ph/file/5a24274c6a6455f9a8d8f.png",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/LushaiMusic/VCsMusicBot",
   "stack": "container",
   "env": {
-    "SESSION_NAME": {
-      "description": "Pyrogram session string",
+    "SESSION_NAME": {pyrogram v1
+      "description": "BQA_OU0XG3RGtTTJBaAnuw4Z3qQm0yTUgpQad54-kJB1iIeoVeFAom_cjpq5OcqPheP68gkifnvugzR3-EyC_wMLnWRwEhNmE6bKeMtsr7aMR_EM1gnVIi6FZErplBAKz5YR7ThwV4VFGu1dmSaWb4JAzuOQL22nWXS481zsPaRrp1-pVsQBXlOc5NVA1pQZ-bvsKkw4xem1kDg3LtdeAV-dUeAH2gk7BAqPb2HHQsPu78yQ-Muy9y57EPFDA0bKHyw5nbUm4TBpLtqmfgO1dnzns88qSOBFrvaWw66qvRQUiCbMvD7u1p0BGgiiYqyjBXjt6B9jnHE5N4DSmR7LFoAAAAAWxwcCYA",
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "A bot token from @BotFather",
+      "description": "6124433807:AAFLeTMZQGQ0W5xjkLQ3I_pQcDSuXGgY_Cs",
       "required": true
     },
     "BOT_USERNAME": {
-      "description": "Your bot's username without @",
+      "description": "Islamic_nasheedbot",
       "required": true
     },
     "BOT_NAME": {
-      "description": "Your MusicPlayer Bot Name.",
+      "description": "ISLAMIC NASHEED",
       "required": false,
       "value": ""
     },
@@ -34,7 +34,7 @@
       "value": "VCsMusicBot"
     },
     "ASSISTANT_NAME": {
-      "description": "Your MusicPlayer's assistant Username without @.",
+      "description": "Alhaq143",
       "required": true
     },
     "ARQ_API_KEY": {
@@ -53,7 +53,7 @@
       "value": "ZauteKm"
     },    
     "API_ID": {
-      "description": "App ID from my.telegram.org/apps",
+      "description": "27730948",
       "required": true
     },
     "PMPERMIT": {
@@ -62,15 +62,15 @@
       "value": "ENABLE"
     },    
     "API_HASH": {
-      "description": "App hash from my.telegram.org/apps",
+      "description": "5a59be7f1753e4a0c21d3b68c89efaf8",
       "required": true
     },
     "SUDO_USERS": {
-      "description": "List of user IDs counted as admin everywhere (separated by space).",
+      "description": "1072209469",
       "required": true
     },
     "DURATION_LIMIT": {
-      "description": "Max audio duration limit for downloads (minutes).",
+      "description": "10 minute.",
       "required": true,
       "value": "10"
     }
