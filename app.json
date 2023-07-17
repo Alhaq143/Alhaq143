@@ -6,7 +6,7 @@
   "repository": "https://github.com/LushaiMusic/VCsMusicBot",
   "stack": "container",
   "env": {
-    "SESSION_NAME": {pyrogram v1
+    "SESSION_NAME": {
       "description": "BQA_OU0XG3RGtTTJBaAnuw4Z3qQm0yTUgpQad54-kJB1iIeoVeFAom_cjpq5OcqPheP68gkifnvugzR3-EyC_wMLnWRwEhNmE6bKeMtsr7aMR_EM1gnVIi6FZErplBAKz5YR7ThwV4VFGu1dmSaWb4JAzuOQL22nWXS481zsPaRrp1-pVsQBXlOc5NVA1pQZ-bvsKkw4xem1kDg3LtdeAV-dUeAH2gk7BAqPb2HHQsPu78yQ-Muy9y57EPFDA0bKHyw5nbUm4TBpLtqmfgO1dnzns88qSOBFrvaWw66qvRQUiCbMvD7u1p0BGgiiYqyjBXjt6B9jnHE5N4DSmR7LFoAAAAAWxwcCYA",
       "required": true
     },
